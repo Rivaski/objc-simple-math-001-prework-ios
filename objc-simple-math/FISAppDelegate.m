@@ -9,7 +9,11 @@
     
     /**
      
-     * Write your code here.
+     NSInteger i = 0;
+     NSLog (@"i: %li", i);
+     i =1 + 1;
+     NSLog (@"i: %li", i);
+     
      
      */
     
